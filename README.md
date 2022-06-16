@@ -1,16 +1,20 @@
-### Hi there 👋
+### Who I Am:
+| From | Current Study | Employment
+| --- | --- | --- |
+| Ohio, USA | Digital Media | Self-Employed / Hobbyist |
 
-<!--
-**CB976/CB976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Like:
+* Things with lots of buttons and/or things that make obnoxious amounts of noise.
+* Industrial power/control systems *(big contactor go brrrr)*
+* Anything on wheels.
+* Everything that has a MIDI port.
+* Cats!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Do:
+* Game Development (Unreal Engine 4 & 5; GZDoom; *Source*)
+* Archviz (Also in UE)
+* Audio Design / Sound Engineering
+* Music Composition
+* Graphic Design, 3D Modeling & Animation
+* Photography & Videography
+* *Exist!*
