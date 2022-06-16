@@ -5,7 +5,7 @@
 
 ### What I Like:
 * Things with lots of buttons and/or things that make obnoxious amounts of noise.
-* Industrial power/control systems *(big contactor go brrrr)*
+* Industrial power/control systems *(big 3PH480V contactor go brrrr)*
 * Anything on wheels.
 * Everything that has a MIDI port.
 * Cats!
