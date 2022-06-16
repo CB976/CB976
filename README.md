@@ -7,7 +7,7 @@
 * Things with lots of buttons and/or things that make obnoxious amounts of noise.
 * Industrial power/control systems *(big 3PH480V contactor go brrrr)*
 * HVAC systems & indoor climate controls. 
-* Anything on wheels.
+* Anything on wheels. Shopping cart or sports car - I love it all.
 * Everything that has a MIDI interface.
 * PC hardware of all makes, years, types, and sizes. *Dibs on the C64.*
 * Things that just work - the first time.
