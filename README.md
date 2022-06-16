@@ -14,8 +14,8 @@
 ### What I Do:
 * Game Development (Unreal Engine 4 & 5; GZDoom; *Source*)
 * Archviz (Also in UE)
-* Audio Design / Sound Engineering
+* Audio Design / Sound Engineering (Audacity)
 * Music Composition
-* Graphic Design, 3D Modeling & Animation
+* Graphic Design, 3D Modeling & Animation (Blender & Krita)
 * Photography & Videography
 * *Exist!*
